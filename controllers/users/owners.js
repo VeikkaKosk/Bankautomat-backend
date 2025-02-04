@@ -1,0 +1,1 @@
+//Ownersiin liittyvöt toiminnallisuudet
